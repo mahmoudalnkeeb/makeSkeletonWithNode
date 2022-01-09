@@ -8,6 +8,6 @@ make project skeleton using node fileSystem (fs)
 
 ## what will be created
 - views folder 
- - css file 
- - js file 
- - html file with html skeleton template
+  - css file 
+  - js file 
+  - html file with html skeleton template
