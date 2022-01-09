@@ -3,7 +3,7 @@ make project skeleton using node fileSystem (fs)
 
 
 ## how to use 
-`npm install`
+`npm install`  
 `npm run mkSkeleton`
 
 ## what will be created
